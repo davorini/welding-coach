@@ -1,0 +1,4 @@
+``` {"compilerOptions":{"lib":["
+  dom","esnext"],"jsx":"preserve","paths":
+  {"@/*":["./*"]}},"include":["**/*.ts","**/
+  *.tsx"],"exclude":["node_modules"]} ``
