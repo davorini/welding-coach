@@ -1,2 +1,2 @@
-# welding-coach
+# welding-assistant
 tvoj varilni instruktor,vse kar moras vedet o varjenju,dodajnih materialih,plinih,nastavitvah...
